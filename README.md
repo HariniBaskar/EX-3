@@ -1,5 +1,5 @@
 # EX-3 IMPLEMENTATION OF SLIDING WINDOW PROTOCOL
-# DATE : 23-03-2023
+# DATE : 20-03-2023
 
 ## AIM :
 To write a python program to perform sliding window protocol
